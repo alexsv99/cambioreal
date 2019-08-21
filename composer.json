@@ -15,6 +15,5 @@
         "psr-0": {
             "CambioReal": "src"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
